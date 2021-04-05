@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .w-144 {
+    width: 34rem;
+  }
+  .h-144 {
+    height: 34rem;
+  }
+}
+
+body {
+  background-color: cadetblue;
+}
